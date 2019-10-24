@@ -7,5 +7,11 @@ public class first {
         System.out.println("@@@@@@@@@@@@@@@@@@@@@@");
         System.out.println("@@@@@@@@@@@@@@@@@@@@@@");
         System.out.println("@@@@@@@@@@@@@@@@@@@@@@");
+        System.out.println("@@@@@@@@@@@@@@@@@@@@@@");
+        System.out.println("@@@@@@@@@@@@@@@@@@@@@@");
+        System.out.println("1111111111111111111111");
+    }
+    public void hello(){
+        System.out.println("!");
     }
 }
