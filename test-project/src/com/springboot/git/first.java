@@ -13,5 +13,7 @@ public class first {
     }
     public void hello(){
         System.out.println("!");
+
+        System.out.println("ssss");
     }
 }
